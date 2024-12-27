@@ -1,0 +1,30 @@
+|-- .gitignore
+|-- draft.txt
+|-- package-lock.json
+|-- package.json
+|-- post_app.sql
+|-- private
+    |-- database.php
+    |-- db_credentials.php
+    |-- functions.php
+    |-- initialize.php
+    |-- query_functions.php
+    |-- shared
+        |-- user_footer.php
+        |-- user_header.php
+|-- public
+    |-- images
+    |-- index.php
+    |-- stylesheets
+        |-- styles.css
+    |-- user
+        |-- pages
+            |-- delete_post.php
+            |-- home.php
+            |-- post_form.php
+            |-- process.php
+            |-- signin.php
+            |-- signout.php
+            |-- signup.php
+        |-- subjects
+|-- tailwind.config.js
