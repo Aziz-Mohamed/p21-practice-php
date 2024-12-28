@@ -1,6 +1,6 @@
 <?php require_once('../private/initialize.php'); ?>
 
-<?php $page_title = 'Login Page'; ?>
+<?php $page_title = 'Post App'; ?>
 <?php include(SHARED_PATH . '/user_header.php'); ?>
 
   <div class="flex flex-col items-center justify-center min-h-screen bg-gray-100">
