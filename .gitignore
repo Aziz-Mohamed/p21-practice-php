@@ -3,8 +3,8 @@ node_modules/
 
 # Ignore log files and databases
 *.log
-*.sql
-*.sqlite
+# *.sql
+# *.sqlite
 
 # Ignore environment variables
 .env

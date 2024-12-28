@@ -2,7 +2,6 @@
 |-- draft.txt
 |-- package-lock.json
 |-- package.json
-|-- post_app.sql
 |-- private
     |-- database.php
     |-- db_credentials.php
@@ -27,4 +26,5 @@
             |-- signout.php
             |-- signup.php
         |-- subjects
+|-- schema.sql
 |-- tailwind.config.js
